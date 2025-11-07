@@ -1,0 +1,19 @@
+# 🎯 Number Guessing Game
+
+A small fun project I made — try to guess the number the computer picked between 1 and 10 😏.  
+It tracks your score, gives hints if your guess is too high or too low, and lets you keep playing as long as you want.  
+
+This is the second week of my Python practice, where I make little projects to improve.  
+I created this number guessing game with a scoring system at 3 AM after a full day of studying, and somehow managed to pull it off like the queen I am 🤟🏻😫.  
+It's very simple Python code, but practice is practice!  
+
+Quick, easy, and a neat way to play with Python, randomness, and loops.  
+
+---
+
+## How to Run
+
+Make sure Python is installed, then run:
+
+```bash
+python main.py
