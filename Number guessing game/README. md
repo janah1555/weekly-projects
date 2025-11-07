@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game
+# 🎯 second project: Number Guessing Game
 
 A small fun project I made — try to guess the number the computer picked between 1 and 10 😏.  
 It tracks your score, gives hints if your guess is too high or too low, and lets you keep playing as long as you want.  
